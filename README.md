@@ -1,4 +1,4 @@
-# Data Pipeline and Dashboard Setup
+# Netflix Data Pipeline & Dashboard
 
 This guide provides a step-by-step process to set up a data pipeline and dashboard.
 

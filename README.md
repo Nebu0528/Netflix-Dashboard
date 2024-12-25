@@ -1,6 +1,5 @@
-# Netflix Data Pipeline & Dashboard
-
-This guide provides a step-by-step process to set up a data pipeline and dashboard.
+# Netflix Insights Dashboard
+A dashboard made with the kaggle dataset Netflix Shows and Movies and AWS S3 to enable real-time access to Netflix content data, to display insightful data from the dataset such as rating distributions and top genres.
 
 ![image](https://github.com/user-attachments/assets/11621e11-cedc-46b6-8554-cff593e4dbce)
 

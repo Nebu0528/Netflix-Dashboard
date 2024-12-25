@@ -9,14 +9,13 @@ This guide provides a step-by-step process to set up a data pipeline and dashboa
 
 ## Initial Setup
 
-1. **Create a new directory for your project**
-2. **Install Python 3.9 or later**
-3. **Install AWS CLI**
-4. **Create a virtual environment:**
+1. **Install Python 3.9 or later**
+2. **Install AWS CLI**
+3. **Create a virtual environment:**
     ```bash
     python -m venv venv
     ```
-5. **Activate the virtual environment:**
+4. **Activate the virtual environment:**
 
     - **MacOS:**
       ```bash

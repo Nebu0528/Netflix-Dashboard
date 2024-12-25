@@ -47,8 +47,7 @@ This guide provides a step-by-step process to set up a data pipeline and dashboa
 
 ## Install Dependencies
 
-1. Copy the contents of `requirements.txt` from the artifact.
-2. Install dependencies:
+1. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```

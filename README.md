@@ -35,7 +35,7 @@ A dashboard made with the kaggle dataset Netflix Shows and Movies and AWS S3 to 
 
 1. Create an IAM user with appropriate permissions (S3 access).
 2. Save the access key and secret key.
-3. Place the following content in the `.env` file:
+3. Place the following content in a `.env` file:
     ```env
     AWS_ACCESS_KEY_ID=your_access_key
     AWS_SECRET_ACCESS_KEY=your_secret_key

@@ -18,6 +18,8 @@ s3 = boto3.client(
     region_name=os.getenv('AWS_REGION')
 )
 
+#Made some fixes to the S3 container
+
 # Initialize the Dash app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 

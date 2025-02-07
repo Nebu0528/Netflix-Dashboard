@@ -6,6 +6,7 @@ A dashboard made with the kaggle dataset Netflix Shows and Movies and AWS S3 to 
 ![image](https://github.com/user-attachments/assets/11621e11-cedc-46b6-8554-cff593e4dbce)
 
 
+
 ---
 
 ## Initial Setup

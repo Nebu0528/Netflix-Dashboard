@@ -11,6 +11,7 @@ import os
 # Load environment variables
 load_dotenv()
 
+
 # AWS Configuration
 s3 = boto3.client(
     's3',

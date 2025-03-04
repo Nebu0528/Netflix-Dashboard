@@ -1,4 +1,5 @@
 
+
 # Netflix Insights Dashboard
 A dashboard made with the kaggle dataset Netflix Shows and Movies and AWS S3 to enable real-time access to Netflix content data, to display insightful data from the dataset such as rating distributions and top genres.
 

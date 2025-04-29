@@ -51,8 +51,13 @@ def create_top_genres():
     fig = px.bar(x=top_genres.index, y=top_genres.values,
                  title='Top 10 Genres')
     return fig
+    
+#Implement this
+def top_genres_per_country():
+    break
 
 # App layout
+# Change this layout to show more insightful metrics
 app.layout = dbc.Container([
     html.H1("Netflix Content Dashboard", className="text-center my-4"),
     
